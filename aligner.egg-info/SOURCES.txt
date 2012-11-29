@@ -1,0 +1,14 @@
+README
+setup.py
+align/__init__.py
+align/align.py
+align/sequences.py
+align/ali_parser/__init__.py
+align/ali_parser/parser.py
+align/utils/__init__.py
+align/utils/seq_utils.py
+aligner.egg-info/PKG-INFO
+aligner.egg-info/SOURCES.txt
+aligner.egg-info/dependency_links.txt
+aligner.egg-info/top_level.txt
+scripts/aligner.py

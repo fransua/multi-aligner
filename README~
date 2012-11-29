@@ -1,0 +1,4 @@
+Reads sequences from file fasta format, and align them. 
+If input sequences are nucleotidic translate them using a given genetic code,
+ and aligns amino-acids.
+If several aligners are available
